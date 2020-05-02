@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://zhf:Canwegetit123@contact-list-icfdm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretpass"
+}
